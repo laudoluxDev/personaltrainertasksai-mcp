@@ -1,0 +1,11 @@
+{
+  "product_id": "personaltrainer",
+  "display_name": "PersonalTrainerTasksAI",
+  "tool_prefix": "personaltrainertasksai",
+  "api_base_url": "https://api.lawtasksai.com",
+  "website_url": "https://personaltrainertasksai.com",
+  "billing_url": "https://personaltrainertasksai.com/buy-credits.html",
+  "support_email": "support@personaltrainertasksai.com",
+  "privacy_summary": "PersonalTrainerTasksAI servers handle authentication, credits, catalog/search metadata, and licensed skill delivery. PersonalTrainerTasksAI does not process the user's task content. The user's chosen AI assistant or LLM performs the task work according to that provider's privacy terms.",
+  "first_prompt": "Check my PersonalTrainerTasksAI credit balance."
+}
